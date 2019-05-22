@@ -1,12 +1,3 @@
-a:hover {
-  color: red;
+div p:first-child{
+  font-weight: bold;
 }
-
-a:active {
-  color: orange;
-}
-
-a:visited {
-  color: purple;
-}
-/*Active Pseudo Classes*/
